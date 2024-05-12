@@ -1,0 +1,3 @@
+[submodule "movie-seat"]
+	path = movie-seat
+	url = git@github.com:hgirish/movie-seat
